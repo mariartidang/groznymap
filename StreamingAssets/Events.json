@@ -1,5 +1,31 @@
 {
-  "events": [
-
-  ]
+    "events": [
+        {
+            "EventName": "Выставка современного искусства",
+            "Description": "Выставка местных художников и скульпторов, посвященная культурному наследию Чечни.",
+            "Date": "20-30 ноября 2024",
+            "Type": "Выставка",
+            "Cost": 300,
+            "LocationID": 22,
+            "Link": "https://www.tripadvisor.com/event/modern-art-grozny"
+        },
+        {
+            "EventName": "Фестиваль традиционной кухни",
+            "Description": "Мероприятие с дегустацией блюд чеченской кухни, мастер-классами и живой музыкой.",
+            "Date": "18 ноября 2024",
+            "Type": "Фестиваль",
+            "Cost": 0,
+            "LocationID": 45,
+            "Link": "https://www.grozny.ru/festival-food"
+        },
+        {
+            "EventName": "Концерт в Грозненской филармонии",
+            "Description": "Классический концерт с участием известных российских музыкантов.",
+            "Date": "25 ноября 2024",
+            "Type": "Концерт",
+            "Cost": 500,
+            "LocationID": 24,
+            "Link": "https://www.grozny.ru/concert-philharmonic"
+        }
+    ]
 }
