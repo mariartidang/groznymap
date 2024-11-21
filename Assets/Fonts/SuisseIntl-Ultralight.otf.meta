@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 4c7dddacfd14eff4b80a35a749842f4d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Suisse Intl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0efaed71f22aba4a98f45a314571a83, type: 3}
+  - {fileID: 12800000, guid: 931982abe6412a14eab557424db8eae2, type: 3}
+  - {fileID: 12800000, guid: c349b86321dd54c46ae6b69a9de8e2db, type: 3}
+  - {fileID: 12800000, guid: f0740bb71393da340a40f635cad1bbbf, type: 3}
+  - {fileID: 12800000, guid: dbe99e6ffbf6d7e45af59d50790cb302, type: 3}
+  - {fileID: 12800000, guid: 588e026d0861b784ab1e4a73cf90bcd7, type: 3}
+  - {fileID: 12800000, guid: 888da82a5fc7c2547a53bd1ef4dc9aba, type: 3}
+  - {fileID: 12800000, guid: a90c489a8d3fa1943a9b2e8517586704, type: 3}
+  - {fileID: 12800000, guid: 439b1d0e70eeb714190ab1fd13e18bb6, type: 3}
+  - {fileID: 12800000, guid: 2b6f059e1a4bd9f4dada17eb587197ea, type: 3}
+  - {fileID: 12800000, guid: c728f55c7a9d7c2419c10ea6f1cc26b9, type: 3}
+  - {fileID: 12800000, guid: bb227d0d5723b6d49b8ebc06476b76bc, type: 3}
+  - {fileID: 12800000, guid: a17ab12685023474381ee8a4f4cd8b44, type: 3}
+  - {fileID: 12800000, guid: a928bfac75e84a243bab52f9df37b857, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

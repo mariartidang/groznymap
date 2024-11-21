@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c349b86321dd54c46ae6b69a9de8e2db
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Suisse Intl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0efaed71f22aba4a98f45a314571a83, type: 3}
+  - {fileID: 12800000, guid: 931982abe6412a14eab557424db8eae2, type: 3}
+  - {fileID: 12800000, guid: f0740bb71393da340a40f635cad1bbbf, type: 3}
+  - {fileID: 12800000, guid: 439b1d0e70eeb714190ab1fd13e18bb6, type: 3}
+  - {fileID: 12800000, guid: a17ab12685023474381ee8a4f4cd8b44, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

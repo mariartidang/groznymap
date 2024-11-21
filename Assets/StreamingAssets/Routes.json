@@ -1,0 +1,69 @@
+{
+    "Routes": [
+        {
+            "RouteName": "Отели Грозного",
+            "RouteDescription": "Не знаете где остановиться? Пройдитесь по всем отелям города Грозный! Уверены, вы непременно найдете нужный отель!",
+            "MaxVisitorsAmount": 25,
+            "TimeInMinutes": 120,
+            "BudgetStatus": 1,
+            "MinimalAge": 12,
+            "TransportStatus": 1,
+            "AreaStatus": 1,
+            "HVSSTatus": 1,
+            "Tags": [ "Отель" ],
+            "Points": [ 15, 16, 17, 18, 19 ]
+        },
+        {
+            "RouteName": "Уличная еда!",
+            "RouteDescription": "Откройте изысканный мир фаст-фуда. Только самые популярные и любимые всеми точки в Грозном",
+            "MaxVisitorsAmount": 25,
+            "TimeInMinutes": 120,
+            "BudgetStatus": 1,
+            "MinimalAge": 12,
+            "TransportStatus": 1,
+            "AreaStatus": 1,
+            "HVSSTatus": 1,
+            "Tags": [ "Еда" ],
+            "Points": [ 3, 6, 7, 8, 9 ]
+        },
+        {
+            "RouteName": "Парки",
+            "RouteDescription": "Настало время прогулок? Мы знаем что вас заинтересует. Парки невероятной красоты  ждут вас!",
+            "MaxVisitorsAmount": 25,
+            "TimeInMinutes": 120,
+            "BudgetStatus": 1,
+            "MinimalAge": 12,
+            "TransportStatus": 1,
+            "AreaStatus": 1,
+            "HVSSTatus": 1,
+            "Tags": [ "Парк" ],
+            "Points": [ 45, 46 ]
+        },
+        {
+            "RouteName": "Развлечения",
+            "RouteDescription": "Здесь вы найдете самые интересные и популярные места развлечений в городе. Боулинг, кинотеатр и многое другое ждут вас!",
+            "MaxVisitorsAmount": 25,
+            "TimeInMinutes": 120,
+            "BudgetStatus": 1,
+            "MinimalAge": 12,
+            "TransportStatus": 1,
+            "AreaStatus": 1,
+            "HVSSTatus": 1,
+            "Tags": [ "Развлечения" ],
+            "Points": [ 33, 34, 35, 36, 37 ]
+        },
+        {
+            "RouteName": "Искусство и стиль",
+            "RouteDescription": "В этом маршруте вы познакомитесь с культурой и традициями чеченского народа!",
+            "MaxVisitorsAmount": 25,
+            "TimeInMinutes": 120,
+            "BudgetStatus": 1,
+            "MinimalAge": 12,
+            "TransportStatus": 1,
+            "AreaStatus": 1,
+            "HVSSTatus": 1,
+            "Tags": [ "Искусство" ],
+            "Points": [ 22, 23, 24 ]
+        }
+    ]
+}
