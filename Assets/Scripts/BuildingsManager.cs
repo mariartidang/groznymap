@@ -49,6 +49,7 @@ public class BuildingsManager : MonoBehaviour
             PlacesWindow.Instance.LoadPlaces();
             TagManager.Instance.InitializeTags(Buildings);
             StartCoroutine(EventManager.Instance.InitializeEvents());
+            StartCoroutine(NewsWindow.Instance.InitializeNews());
         }
     }
 }

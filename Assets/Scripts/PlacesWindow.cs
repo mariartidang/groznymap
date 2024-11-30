@@ -47,6 +47,8 @@ public class PlacesWindow : MonoBehaviour
                 RoutesWindow.Instance.SwitchState();
             if (EventManager.Instance.isOpened)
                 EventManager.Instance.SwitchState();
+            if (NewsWindow.Instance.isOpened)
+                NewsWindow.Instance.SwitchState();
         }
 
     }

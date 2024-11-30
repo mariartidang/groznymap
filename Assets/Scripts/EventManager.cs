@@ -32,6 +32,8 @@ public class EventManager : MonoBehaviour
                 RoutesWindow.Instance.SwitchState();
             if (PlacesWindow.Instance.isOpened)
                 PlacesWindow.Instance.SwitchState();
+            if (NewsWindow.Instance.isOpened)
+                NewsWindow.Instance.SwitchState();
         }
 
     }
