@@ -1,9 +1,9 @@
 const cacheName = "EmpireM-Grozny interactive map-1.0.2";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/BuildGrozny.loader.js",
+    "Build/BuildGrozny.framework.js",
+    "Build/BuildGrozny.data",
+    "Build/BuildGrozny.wasm",
     "TemplateData/style.css"
 
 ];
